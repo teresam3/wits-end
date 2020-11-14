@@ -1,0 +1,25 @@
+.head {
+    font-family: 'Cormorant Garamond', serif;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.nav {
+    font-family: 'Cormorant Garamond', serif;
+    color: white;
+}
+
+.navbar-nav {
+    margin-left: 575px;
+    margin-right: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    width: 1200px;
+    height: 900px;
+    margin-bottom: 50px;
+}
